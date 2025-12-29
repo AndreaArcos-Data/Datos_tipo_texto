@@ -1,4 +1,4 @@
-# Limpieza de Base de Contactos (Python)
+# Limpieza de Base de ventas (Python)
 
 Este proyecto muestra un proceso completo y reproducible para limpiar una base de datos de contactos donde toda la información venía 
 mezclada en una sola columna.
